@@ -1,4 +1,4 @@
-import  Fragment  from 'react'
+
 import ImageCard from './ImageCard'
 
  function GalleryGrid({ images }) {
